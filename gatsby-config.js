@@ -1,4 +1,5 @@
 module.exports = {
+	pathPrefix: `/ja-blog`,
   siteMetadata: {
     title: 'Gatsby Default Starter',
   },
